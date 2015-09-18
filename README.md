@@ -2,28 +2,17 @@
 This repo is homework of attending Andrew Ng's Machine Learning on Coursera August 10 - November 2.
 
 #####Week 1Introduction
-Linear Regression with One Variable
-
-Linear Algebra Review
-
+* Linear Regression with One Variable
+* Linear Algebra Review
 Environment Setup Instructions
-
 Introduction
-
 Review
-
 Course Wiki Lecture Notes
-
 Model and Cost Function
-
 Parameter Learning
-
 Review
-
 Linear Algebra Review
-
 Review
-
 Quiz: Introduction
 Quiz: Linear Regression with One Variable
 
